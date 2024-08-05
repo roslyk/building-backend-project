@@ -1,0 +1,25 @@
+body {
+    
+    background: rgba(182, 208, 166, 0.519);
+    color: #222222;
+    max-width: 600px;
+    margin: auto;
+    font-family: sans-serif;
+        
+}
+
+p {
+    line-height: 1.7;
+}
+
+article + article {
+    
+    
+    margin-top: 3rem;
+    
+    padding-top: 3rem;
+    
+    border-top: 1px solid #0f0b0b;
+    
+}
+
